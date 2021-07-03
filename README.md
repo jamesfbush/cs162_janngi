@@ -1,5 +1,5 @@
 # janngi
-Implementation of game of Janngi for Intro to Computer Science II (CS162) at Oregon State University.
+Implementation of game of Janngi for CS162 Intro to Computer Science II (W '21) at Oregon State University.
 
 ## JanngiGame.py
 No GUI. Takes function calls for moves based on algebraic notation.
